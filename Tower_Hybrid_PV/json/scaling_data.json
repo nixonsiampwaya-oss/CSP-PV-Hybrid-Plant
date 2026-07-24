@@ -1,0 +1,22 @@
+{
+    "CSP Power Block": "csp_summary.get('NetCapacity_MWe') * 1000",
+    "CSP BOP": "csp_summary.get('NetCapacity_MWe') * 1000",
+    "CSP SF": "csp_summary.get('Solar_Field_Area_m2')",
+    "CSP TES": "E_cap",
+    "CSP Receiver": "csp_summary.get('Receiver_Design_MWt')",
+    "CSP Tower": "csp_summary.get('Tower_Height_m')",
+    "CSP Site Preparations / Civil works": "csp_summary.get('Land_Area_acre') * 4046.86",
+    "Electric Heater": "PV_to_heater_max * 1000",
+    "Grid Connection Costs": "dist_to_grid",
+    "Road Costs": "dist_to_road",
+    "Gas Pipeline Costs": "dist_to_gas",
+    "Water Pipeline Costs": "dist_to_water",
+    "Battery Pack - Power": 0,
+    "Battery Pack - Capacity": 0,
+    "Other Component": "other_comp",
+    "PV Modules": "name_plate_kwdc * 1000",
+    "PV Inverters": "name_plate_kwdc * 1000",
+    "PV BOS (except Inverters)": "name_plate_kwdc * 1000",
+    "PV additional rack (SA tracking)": "name_plate_kwdc * 1000",
+    "PV Site Preperations / Civil works": "land_area_m2"
+}

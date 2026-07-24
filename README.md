@@ -4,7 +4,7 @@ Full design and optimisation of a **142 MW PV + 50 MW CSP trough hybrid plant wi
 
 > Developed for *MJ2500 Large Scale Solar Power* at KTH Royal Institute of Technology (2025), in a five-person team.
 
-📄 **[Full technical report (PDF)](docs/CSP_PV_Hybrid_Plant_Report.pdf)**
+📄 **[Full technical report (PDF)](docs/Large_Scale_Solar_Project.pdf)**
 
 ---
 
